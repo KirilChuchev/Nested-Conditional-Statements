@@ -1,0 +1,109 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point on Rectangle Border", "Exercise 27.01\Point on Rectangle Border.csproj", "{FFAC5B04-1E8E-4460-954E-38E521BF977E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema", "Cinema\Cinema.csproj", "{7DF0DE32-49B1-41E7-952C-CF120B6712EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Summer Outfit", "Summer Outfit\Summer Outfit.csproj", "{26772A7E-E98A-489A-AD51-DB345816BB66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New House", "New House\New House.csproj", "{81CDFDF4-FF64-45B2-A2B1-3D65C6A65D0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Journey", "Journey\Journey.csproj", "{8157A129-3A94-4621-B690-E32F1B6C4350}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations Between Numbers", "Operations Between Numbers\Operations Between Numbers.csproj", "{8EF9F59C-FF70-4B1C-9372-A05B04B32626}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "On Time for the Exam", "On Time for the Exam\On Time for the Exam.csproj", "{D29D9FE8-179C-46FE-9BF5-E4878F37216D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point on Rectangle Border (HOME)", "Point on Rectangle Border (HOME)\Point on Rectangle Border (HOME).csproj", "{E764103C-6F0E-4FE3-A23A-6F8575FACA6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema (HOME)", "Cinema (HOME)\Cinema (HOME).csproj", "{B15A6AD6-B471-419D-81C0-01E3021F7A17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Summer Outfit (HOME)", "Summer Outfit (HOME)\Summer Outfit (HOME).csproj", "{7200AF2E-88A7-455C-AA4A-7C54B1A7AF7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Journey (HOME)", "Journey (HOME)\Journey (HOME).csproj", "{5B6DCD61-93E7-4475-81AA-D3BE1C842665}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations Between Numbers (HOME)", "Operations Between Numbers (HOME)\Operations Between Numbers (HOME).csproj", "{7CE9B73C-0A79-4DC2-9D76-63EDC2E4C802}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{F7D1ECF7-5771-4048-9BC2-3EF426438C04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel Room (HOME)", "Hotel Room (HOME)\Hotel Room (HOME).csproj", "{8ED4FB68-D032-444C-8674-F06B2B25EC8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "On Time for the Exam (HOME)", "On Time for the Exam (HOME)\On Time for the Exam (HOME).csproj", "{4A35419F-3B38-409E-B24B-8F33DE28633C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFAC5B04-1E8E-4460-954E-38E521BF977E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFAC5B04-1E8E-4460-954E-38E521BF977E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFAC5B04-1E8E-4460-954E-38E521BF977E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFAC5B04-1E8E-4460-954E-38E521BF977E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DF0DE32-49B1-41E7-952C-CF120B6712EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF0DE32-49B1-41E7-952C-CF120B6712EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF0DE32-49B1-41E7-952C-CF120B6712EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF0DE32-49B1-41E7-952C-CF120B6712EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26772A7E-E98A-489A-AD51-DB345816BB66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26772A7E-E98A-489A-AD51-DB345816BB66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26772A7E-E98A-489A-AD51-DB345816BB66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26772A7E-E98A-489A-AD51-DB345816BB66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81CDFDF4-FF64-45B2-A2B1-3D65C6A65D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81CDFDF4-FF64-45B2-A2B1-3D65C6A65D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81CDFDF4-FF64-45B2-A2B1-3D65C6A65D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81CDFDF4-FF64-45B2-A2B1-3D65C6A65D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8157A129-3A94-4621-B690-E32F1B6C4350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8157A129-3A94-4621-B690-E32F1B6C4350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8157A129-3A94-4621-B690-E32F1B6C4350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8157A129-3A94-4621-B690-E32F1B6C4350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EF9F59C-FF70-4B1C-9372-A05B04B32626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF9F59C-FF70-4B1C-9372-A05B04B32626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF9F59C-FF70-4B1C-9372-A05B04B32626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF9F59C-FF70-4B1C-9372-A05B04B32626}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D29D9FE8-179C-46FE-9BF5-E4878F37216D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29D9FE8-179C-46FE-9BF5-E4878F37216D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29D9FE8-179C-46FE-9BF5-E4878F37216D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29D9FE8-179C-46FE-9BF5-E4878F37216D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E764103C-6F0E-4FE3-A23A-6F8575FACA6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E764103C-6F0E-4FE3-A23A-6F8575FACA6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E764103C-6F0E-4FE3-A23A-6F8575FACA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E764103C-6F0E-4FE3-A23A-6F8575FACA6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B15A6AD6-B471-419D-81C0-01E3021F7A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15A6AD6-B471-419D-81C0-01E3021F7A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15A6AD6-B471-419D-81C0-01E3021F7A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15A6AD6-B471-419D-81C0-01E3021F7A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7200AF2E-88A7-455C-AA4A-7C54B1A7AF7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7200AF2E-88A7-455C-AA4A-7C54B1A7AF7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7200AF2E-88A7-455C-AA4A-7C54B1A7AF7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7200AF2E-88A7-455C-AA4A-7C54B1A7AF7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B6DCD61-93E7-4475-81AA-D3BE1C842665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6DCD61-93E7-4475-81AA-D3BE1C842665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6DCD61-93E7-4475-81AA-D3BE1C842665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6DCD61-93E7-4475-81AA-D3BE1C842665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CE9B73C-0A79-4DC2-9D76-63EDC2E4C802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE9B73C-0A79-4DC2-9D76-63EDC2E4C802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE9B73C-0A79-4DC2-9D76-63EDC2E4C802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE9B73C-0A79-4DC2-9D76-63EDC2E4C802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7D1ECF7-5771-4048-9BC2-3EF426438C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D1ECF7-5771-4048-9BC2-3EF426438C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D1ECF7-5771-4048-9BC2-3EF426438C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D1ECF7-5771-4048-9BC2-3EF426438C04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ED4FB68-D032-444C-8674-F06B2B25EC8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED4FB68-D032-444C-8674-F06B2B25EC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED4FB68-D032-444C-8674-F06B2B25EC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED4FB68-D032-444C-8674-F06B2B25EC8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A35419F-3B38-409E-B24B-8F33DE28633C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A35419F-3B38-409E-B24B-8F33DE28633C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A35419F-3B38-409E-B24B-8F33DE28633C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A35419F-3B38-409E-B24B-8F33DE28633C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72641473-0589-4F09-BEAD-2027CC7C2582}
+	EndGlobalSection
+EndGlobal
